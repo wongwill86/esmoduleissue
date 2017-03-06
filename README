@@ -1,0 +1,7 @@
+`yarn install`
+then
+`npm run build`
+then
+`npm run serve`
+
+See in console that react.Component is not resolved (src/esmoduleissue.js)
